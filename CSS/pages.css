@@ -900,8 +900,12 @@ input[type="checkbox"] {
     }
 }
 
+
+/* ****** */
 @media screen and (min-width: 1400px) {
     .wapperr {
         max-width: 1920px;
     }
 }
+
+/* ****** */
