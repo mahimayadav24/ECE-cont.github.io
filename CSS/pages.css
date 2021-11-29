@@ -293,7 +293,7 @@ body, html {
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
     .gr__aside__wz__col .button__cent1 button {
         width: 20%;
     }
@@ -317,33 +317,33 @@ body, html {
     }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 640px) {
     .gr__aside__wz__col .button__cent1 button {
-        width: 30%;
+        width: 35%;
     }
 
     .gr__aside__wz__col .button__cent button {
-        width: 30%;
+        width: 35%;
     }
 }
 
 @media screen and (max-width: 538px) {
     .gr__aside__wz__col .button__cent1 button {
-        width: 35%;
+        width: 39%;
     }
 
     .gr__aside__wz__col .button__cent button {
-        width: 35%;
+        width: 39%;
     }
 }
 
 @media screen and (max-width: 320px) {
     .gr__aside__wz__col .button__cent1 button {
-        width: 40%;
+        width: 44%;
     }
 
     .gr__aside__wz__col .button__cent button {
-        width: 40%;
+        width: 44%;
     }
 }
 
